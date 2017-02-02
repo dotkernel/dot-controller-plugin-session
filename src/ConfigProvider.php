@@ -7,7 +7,7 @@
  * Time: 12:28 AM
  */
 
-declare(strict_types=1);
+declare(strict_types = 1);
 
 namespace Dot\Controller\Plugin\Session;
 

@@ -23,7 +23,7 @@ use Zend\Session\SessionManager;
  */
 class SessionPlugin implements PluginInterface
 {
-    /** @var ContainerInterface **/
+    /** @var ContainerInterface * */
     protected $container;
 
     /** @var  ManagerInterface */

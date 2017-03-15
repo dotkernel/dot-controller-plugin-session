@@ -10,7 +10,7 @@ declare(strict_types = 1);
 namespace Dot\Controller\Plugin\Session;
 
 use Dot\Controller\Plugin\PluginInterface;
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 use Zend\Session\Container;
 use Zend\Session\ManagerInterface;
 use Zend\Session\SessionManager;

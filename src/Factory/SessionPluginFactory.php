@@ -10,7 +10,7 @@ declare(strict_types = 1);
 namespace Dot\Controller\Plugin\Session\Factory;
 
 use Dot\Controller\Plugin\Session\SessionPlugin;
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 
 /**
  * Class SessionPluginFactory

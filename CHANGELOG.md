@@ -1,3 +1,22 @@
+## 0.2.0 - 2017-03-16
+
+### Changed
+* updated container references to PSR11 container
+* updated dependencies
+
+### Added
+* Nothing
+
+### Deprecated
+* Nothing
+
+### Removed
+* Nothing
+
+### Fixed
+* Nothing
+
+
 ## 0.1.1 - 2017-03-11
 
 ### Added

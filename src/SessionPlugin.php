@@ -11,9 +11,9 @@ namespace Dot\Controller\Plugin\Session;
 
 use Dot\Controller\Plugin\PluginInterface;
 use Psr\Container\ContainerInterface;
-use Zend\Session\Container;
-use Zend\Session\ManagerInterface;
-use Zend\Session\SessionManager;
+use Laminas\Session\Container;
+use Laminas\Session\ManagerInterface;
+use Laminas\Session\SessionManager;
 
 /**
  * Class SessionPlugin
